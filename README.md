@@ -6,10 +6,10 @@
 
 <h3><p align="center">Opis:</p></h3>
 
-<b>Paczka zawiera trzy gotowe szablony w języku polskim.<br>
+<center><b>Paczka zawiera trzy gotowe szablony w języku polskim.<br>
 Należy skopiować pliki z wybranego folderu (<i>Google</i>, <i>Paypal</i> oraz <i>Instagram</i>)<br>
 do głównego katalogu naszego serwera (np. <i>/var/www/html/</i> w przypadku <i>Apache2</i><br>
-lub <i>.htdocs</i> w przypadku <i>XAMPP'a</i>).</b>
+lub <i>.htdocs</i> w przypadku <i>XAMPP'a</i>).</b></center>
 
 <b>Screeny ---></b>
 
@@ -34,6 +34,10 @@ lub <i>.htdocs</i> w przypadku <i>XAMPP'a</i>).</b>
 W systemach <i>Windows</i> wymagany jest zainstalowany pakiet:<br>
 - `XAMPP`
 - `Wamp`
+  
+</details>
+
+##
 
 <center>Inspired by Creativity.<br>
   Created by <b>Remo Faller</b>.<br>
