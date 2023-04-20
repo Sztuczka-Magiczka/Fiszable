@@ -6,12 +6,12 @@
 
 <h3><p align="center">Opis:</p></h3>
 
-<center><b>Paczka zawiera trzy gotowe szablony w języku polskim.<br>
+<p><center><b>Paczka zawiera trzy gotowe szablony w języku polskim.<br>
 Należy skopiować pliki z wybranego folderu (<i>Google</i>, <i>Paypal</i> oraz <i>Instagram</i>)<br>
 do głównego katalogu naszego serwera (np. <i>/var/www/html/</i> w przypadku <i>Apache2</i><br>
-lub <i>.htdocs</i> w przypadku <i>XAMPP'a</i>).</b></center>
+lub <i>.htdocs</i> w przypadku <i>XAMPP'a</i>).</b></center></p>
 
-<b>Screeny ---></b>
+<h3><b>Screeny ---></b></h3>
 
 ![Google-Preview](https://user-images.githubusercontent.com/123673170/233241164-9552b173-8991-408f-a71f-808718c245b7.png)
 
